@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user-\Downloads\66\android-wifi-scanner-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6abc448104c99b464a9861a89efc571283be6b4">
+        <dex dex="C:\Users\user-\Downloads\66\android-wifi-scanner-master\app\build\intermediates\pre-dexed\debug\instant-run_df31138a2787e63b1e03713f19a545836a8410a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user-\Downloads\66\android-wifi-scanner-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fb441cacb86b1fc2052415ef5d14505fec8714f9">
+        <dex dex="C:\Users\user-\Downloads\66\android-wifi-scanner-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1807958404ff7a6fc56e2d835604ee262d3b0b59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user-\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="C:\Users\user-\Downloads\66\android-wifi-scanner-master\app\build\intermediates\pre-dexed\debug\support-v4-19.0.1_b68fcd4ecf520d79e5cc70ec110aaa2d5e0709b8.jar" />
+    </item>
+
+</items>
