@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jan 17 19:45:16 BDT 2017
+#Tue Jan 17 20:25:28 BDT 2017
 2.base=C\:\\Users\\user-\\Downloads\\66\\android-wifi-scanner-master\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.file=C\:\\Users\\user-\\Downloads\\66\\android-wifi-scanner-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 5.set=ANDROID_RESOURCE

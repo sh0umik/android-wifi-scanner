@@ -7,7 +7,7 @@
     <string name="ssid_text">SSID</string>
     <string name="bssid_text">BSSID</string>
     <string name="rx_text">Rx</string>
-    <string name="ch_text">Ch</string>
+    <string name="ch_text">Distance</string>
     <string name="freq_text">freq</string>
 
 </resources>

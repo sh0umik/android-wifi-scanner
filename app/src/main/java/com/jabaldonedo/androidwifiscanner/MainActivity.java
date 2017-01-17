@@ -136,7 +136,7 @@ public class MainActivity extends Activity {
 				ssidVal.setText(net.getSsid());
 
 				TextView chVal = new TextView(this);
-				chVal.setText(String.valueOf(WifiDataNetwork.convertFrequencyToChannel(net.getFrequency())));
+				chVal.setText(String.valueOf(calculateDistance((double) net.getLevel(), (double) net.getFrequency())));
 
 				TextView rxVal = new TextView(this);
 				rxVal.setText(String.valueOf(net.getLevel()));
@@ -172,6 +172,11 @@ public class MainActivity extends Activity {
 
 			linearLayout.addView(tableLayout);
 		}
+	}
+
+	public double calculateDistance(double singlaLevel, double frequency) {
+		double exp = (27.55 - (20 * Math.log10(frequency)) + Math.abs(singlaLevel)) / 20.0;
+		return Math.pow(10.0, exp);
 	}
 
 	public class MainActivityReceiver extends BroadcastReceiver {

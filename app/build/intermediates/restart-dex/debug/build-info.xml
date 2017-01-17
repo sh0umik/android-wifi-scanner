@@ -5,29 +5,29 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="523484299786"
+    timestamp="2940098743908"
     token="-8061700220684362705"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="2167" />
+        duration="1211" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="309" />
+        duration="320" />
     <task
         name="verifier"
-        duration="27" />
+        duration="19" />
 
     <artifact
         location="C:\Users\user-\Downloads\66\android-wifi-scanner-master\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="523484299786"
+        timestamp="2940098743908"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\user-\Downloads\66\android-wifi-scanner-master\app\build\outputs\apk\app-debug.apk"
